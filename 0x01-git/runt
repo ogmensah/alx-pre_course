@@ -1,9 +1,0 @@
-git checkout -b update_script
-touch bash/98
-echo '#!/bin/bash' > bash/alx
-echo 'echo "ALX School"' >> bash/alx
-echo '#!/bin/bash' > bash/school
-echo 'echo "The school is open!"' >> bash/school
-git add .
-git commit -m 'My personal work'
-git push
