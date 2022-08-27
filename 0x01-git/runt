@@ -1,4 +1,3 @@
-git branch -b update_script
 git checkout update_script
 touch bash/98
 echo '#!/bin/bash' > bash/alx
