@@ -1,0 +1,5 @@
+echo "my readme" > README.md
+git add .
+git commit -m 'file added'
+git push
+
