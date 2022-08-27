@@ -1,5 +1,9 @@
-echo "my readme" > README.md
+mkdir bash c js
+touch c/c_is_fun.c js/main.js js/index.js
+echo '#!/bin/bash' > bash/alx
+echo 'echo "ALX"' >> bash/alx
+echo -e '#!/bin/bash' > bash/school
+echo 'echo "School"' >> bash/school
 git add .
-git commit -m 'file added'
+git commit -m 'Starting to code today, so cool'
 git push
-
