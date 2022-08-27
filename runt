@@ -1,0 +1,7 @@
+echo 'My first readme' > README.md
+git config --global user.email "gmensah025@gmail.com"
+git config --global user.name "gom6s"
+git add .
+git commit -m 'My first commit'
+git push
+
